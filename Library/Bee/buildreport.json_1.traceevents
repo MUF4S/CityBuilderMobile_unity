@@ -1,0 +1,611 @@
+{ "pid": 0, "tid": -1, "ph": "M", "name": "process_name", "args": { "name": "BeeDriver" } },
+{ "pid": 0, "tid": -1, "ph": "M", "name": "process_sort_index", "args": { "sort_index": "-2" } },
+{ "pid": 0, "tid": 1, "ph": "M", "name": "thread_name", "args": { "name": "" } },
+{ "pid": 0, "tid": 1, "ts": 1668015273486036, "dur": 922337203685477580, "ph": "X", "name": "Build ScriptAssemblies", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1668015273487391, "dur": 34245, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1668015273521951, "dur": 35106, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1668015273557088, "dur": 485048, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1668015274042137, "dur": 9181413, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1668015283223566, "dur": 10059, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1668015313016304, "dur": 922337203685477580, "ph": "X", "name": "Build Player", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1668015313016521, "dur": 4721, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1668015313021243, "dur": 26689, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1668015313047933, "dur": 189817, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1668015313237752, "dur": 1542, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1668015337408662, "dur": 922337203685477580, "ph": "X", "name": "Build ScriptAssemblies", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1668015337408678, "dur": 30410, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1668015337439090, "dur": 185124, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1668015337624215, "dur": 10199, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1668015348271030, "dur": 922337203685477580, "ph": "X", "name": "Build Player", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1668015348271065, "dur": 2163, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1668015348273230, "dur": 21606, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1668015348294837, "dur": 148944, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1668015348443783, "dur": 1482, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1668015380442317, "dur": 922337203685477580, "ph": "X", "name": "Build ScriptAssemblies", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1668015380442337, "dur": 20853, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1668015380463192, "dur": 194285, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1668015380657479, "dur": 9674, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1668015391239069, "dur": 922337203685477580, "ph": "X", "name": "Build Player", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1668015391239078, "dur": 2209, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1668015391241288, "dur": 22691, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1668015391263981, "dur": 197394, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1668015391461377, "dur": 601777, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1668015392063155, "dur": 727, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1668015392064119, "dur": 38, "ph": "X", "name": "", "args": {} },
+{ "pid": 35942, "tid": -1, "ph": "M", "name": "process_name", "args": { "name": "netcorerun.dll" } },
+{ "pid": 35942, "tid": -1, "ph": "M", "name": "process_sort_index", "args": { "sort_index": "-1" } },
+{ "pid": 35942, "tid": 1, "ph": "M", "name": "thread_name", "args": { "name": "" } },
+{ "pid": 35942, "tid": 1, "ts": 1668015391347913, "dur": 101562, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1668015391348791, "dur": 39343, "ph": "X", "name": "BuildProgramContextConstructor", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1668015391432431, "dur": 5393, "ph": "X", "name": "OutputData.Write", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1668015391437828, "dur": 11637, "ph": "X", "name": "Backend.Write", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1668015391438457, "dur": 9502, "ph": "X", "name": "JsonToString", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1668015391454782, "dur": 1149, "ph": "X", "name": "", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1668015391453877, "dur": 2077, "ph": "X", "name": "Write chrome-trace events", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1668015392064194, "dur": 96, "ph": "X", "name": "buildprogram0.traceevents", "args": {} },
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1668015391496031, "dur":979, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1668015391497015, "dur":75, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1668015391497118, "dur":14, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1668015391497133, "dur":378, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1668015391497541, "dur":547, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1668015391498088, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1668015392048971, "dur":281, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1668015392049252, "dur":56, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1668015392049308, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1668015392049311, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1668015392049318, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1668015392049320, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1668015392049326, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1668015392049327, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1668015392049334, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1668015392049335, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1668015392049341, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1668015392049342, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1668015392049348, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1668015392049349, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1668015392049354, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1668015392049356, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1668015392049361, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1668015392049362, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1668015392049368, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1668015392049369, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1668015392049375, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1668015392049377, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1668015392049383, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1668015392049384, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1668015392049389, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1668015392049394, "dur":2, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1668015392049410, "dur":3167, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1668015391497675, "dur":417, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1668015391498093, "dur":3708, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1668015391501808, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1668015391501812, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1668015391503753, "dur":1449, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1668015391505205, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1668015391505222, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1668015391506119, "dur":5142, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1668015391511264, "dur":160, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1668015391511427, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1668015391513000, "dur":3525, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1668015391516581, "dur":135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":1, "ts":1668015391516719, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1668015391516741, "dur":2746, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":1, "ts":1668015391519560, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":1, "ts":1668015391519695, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1668015391519700, "dur":7388, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":1, "ts":1668015391527152, "dur":5626, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":1, "ts":1668015391532780, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1668015391532785, "dur":20245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":1, "ts":1668015391553114, "dur":17097, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1668015391570216, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1668015391570223, "dur":72079, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1668015391642325, "dur":38114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1668015391680443, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1668015391680451, "dur":28506, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1668015391708978, "dur":13391, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1668015391722373, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1668015391722398, "dur":57475, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1668015391779888, "dur":172, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1668015391780062, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1668015391780067, "dur":36549, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1668015391816637, "dur":16419, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1668015391833061, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1668015391833068, "dur":4326, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1668015391837410, "dur":46906, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1668015391884319, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1668015391884322, "dur":6667, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1668015391891003, "dur":412, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1668015391891418, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1668015391891422, "dur":28488, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1668015391919921, "dur":576, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1668015391920499, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1668015391920503, "dur":19492, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1668015391940022, "dur":181, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":1, "ts":1668015391940206, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1668015391940213, "dur":25656, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":1, "ts":1668015391965884, "dur":184, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":1, "ts":1668015391966070, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1668015391966074, "dur":25751, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":1, "ts":1668015391991838, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1668015391991849, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1668015391991851, "dur":55247, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1668015392047112, "dur":1873, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1668015391497696, "dur":402, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1668015391498098, "dur":3784, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1668015391501882, "dur":730, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1668015391502613, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1668015391645834, "dur":4107, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1668015391649991, "dur":19367, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1668015391669364, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1668015391669373, "dur":9674, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1668015391679065, "dur":14585, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1668015391693678, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1668015391693685, "dur":52181, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1668015391745886, "dur":322, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1668015391746210, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1668015391746213, "dur":66654, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1668015391812889, "dur":17639, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1668015391830531, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1668015391830537, "dur":6337, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1668015391836892, "dur":18385, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1668015391855283, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1668015391855293, "dur":7221, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1668015391862532, "dur":84569, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1668015391947107, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1668015391947113, "dur":25052, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1668015391972179, "dur":8721, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":2, "ts":1668015391980906, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1668015391994590, "dur":19128, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":2, "ts":1668015392013741, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1668015392013760, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1668015392013766, "dur":35088, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1668015392048863, "dur":131, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1668015391497691, "dur":404, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1668015391498095, "dur":3803, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1668015391501898, "dur":169, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1668015391502070, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1668015391513063, "dur":3281, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1668015391516399, "dur":152, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1668015391516609, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1668015391516616, "dur":4977, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1668015391521649, "dur":23602, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":3, "ts":1668015391545256, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1668015391545285, "dur":100848, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":3, "ts":1668015391646309, "dur":36835, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1668015391683148, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1668015391683155, "dur":34376, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1668015391717556, "dur":172, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1668015391717731, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1668015391717736, "dur":62192, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1668015391779944, "dur":12232, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1668015391792181, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1668015391792187, "dur":26849, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1668015391819050, "dur":32742, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1668015391851798, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1668015391851806, "dur":6562, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1668015391858386, "dur":16715, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1668015391875104, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1668015391875108, "dur":8244, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1668015391883371, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":3, "ts":1668015391883483, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1668015391883487, "dur":4958, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":3, "ts":1668015391888454, "dur":628, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1668015391889084, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1668015391889110, "dur":29459, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1668015391918587, "dur":141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1668015391918731, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1668015391918735, "dur":7338, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1668015391926087, "dur":206, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1668015391926295, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1668015391926299, "dur":20224, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1668015391946541, "dur":3286, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":3, "ts":1668015391949830, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1668015391949835, "dur":46667, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":3, "ts":1668015391996514, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/level0.resS" }}
+,{ "pid":12345, "tid":3, "ts":1668015391996530, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1668015391996532, "dur":44955, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/level0.resS" }}
+,{ "pid":12345, "tid":3, "ts":1668015392041505, "dur":7486, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1668015391497710, "dur":391, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1668015391498102, "dur":3750, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1668015391501852, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1668015391501979, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1668015391511193, "dur":2869, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1668015391514137, "dur":184, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1668015391514323, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1668015391514329, "dur":7706, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1668015391522102, "dur":51995, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1668015391574102, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1668015391574107, "dur":243136, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1668015391817324, "dur":17023, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1668015391834351, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1668015391834357, "dur":5086, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1668015391839461, "dur":22588, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1668015391862056, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1668015391862064, "dur":4102, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1668015391866185, "dur":150, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":4, "ts":1668015391866338, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1668015391866343, "dur":3400, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":4, "ts":1668015391869757, "dur":550, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":4, "ts":1668015391870310, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1668015391870314, "dur":11334, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":4, "ts":1668015391881662, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1668015391881785, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1668015391881788, "dur":3952, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1668015391885752, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1668015391885860, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1668015391885865, "dur":11499, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1668015391897378, "dur":50440, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.Burst.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":4, "ts":1668015391947821, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1668015391947826, "dur":18052, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.Burst.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":4, "ts":1668015391965897, "dur":392, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1668015391966291, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1668015391966297, "dur":24143, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1668015391990455, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":4, "ts":1668015391990471, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1668015391990474, "dur":51000, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":4, "ts":1668015392041495, "dur":7459, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1668015391497737, "dur":367, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1668015391498105, "dur":3711, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1668015391501816, "dur":133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1668015391501952, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1668015391506692, "dur":4908, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1668015391511682, "dur":581, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1668015391512265, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1668015391512716, "dur":3047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1668015391515834, "dur":1026, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1668015391516863, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1668015391516867, "dur":3820, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1668015391520915, "dur":3477, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":5, "ts":1668015391524398, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1668015391525762, "dur":7003, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":5, "ts":1668015391532830, "dur":126, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":5, "ts":1668015391532959, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1668015391538333, "dur":107324, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":5, "ts":1668015391645732, "dur":37418, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1668015391683153, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1668015391683158, "dur":25774, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1668015391708961, "dur":40535, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1668015391749499, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1668015391749502, "dur":54570, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1668015391804091, "dur":14477, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1668015391818571, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1668015391818576, "dur":11640, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1668015391830245, "dur":20184, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1668015391850435, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1668015391850444, "dur":5091, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1668015391855552, "dur":17599, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1668015391873158, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1668015391873167, "dur":8746, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1668015391881927, "dur":172, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":5, "ts":1668015391882101, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1668015391882106, "dur":6626, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":5, "ts":1668015391888748, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":5, "ts":1668015391888871, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1668015391888876, "dur":13813, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":5, "ts":1668015391902710, "dur":52250, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.Burst.Cecil.dll" }}
+,{ "pid":12345, "tid":5, "ts":1668015391954965, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1668015391954969, "dur":36850, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.Burst.Cecil.dll" }}
+,{ "pid":12345, "tid":5, "ts":1668015391991837, "dur":603, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":5, "ts":1668015391992442, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1668015391992446, "dur":24571, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":5, "ts":1668015392017035, "dur":31938, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1668015391497756, "dur":351, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1668015391498108, "dur":3700, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1668015391501808, "dur":923, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1668015391502733, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1668015391670832, "dur":12232, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1668015391683156, "dur":15426, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1668015391698586, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1668015391698591, "dur":57464, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1668015391756075, "dur":202, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1668015391756280, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1668015391756287, "dur":47778, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1668015391804080, "dur":21426, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1668015391825513, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1668015391825521, "dur":4566, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1668015391830107, "dur":22696, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1668015391852808, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1668015391852813, "dur":5618, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1668015391858445, "dur":309, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1668015391858756, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1668015391858763, "dur":9214, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1668015391867991, "dur":835, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1668015391868829, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1668015391868857, "dur":12818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1668015391881687, "dur":126, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":6, "ts":1668015391881815, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1668015391881817, "dur":4017, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":6, "ts":1668015391885844, "dur":158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":6, "ts":1668015391886005, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1668015391886009, "dur":9365, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":6, "ts":1668015391895387, "dur":19195, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.Burst.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":6, "ts":1668015391914587, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1668015391914593, "dur":16909, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.Burst.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":6, "ts":1668015391931518, "dur":246, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":6, "ts":1668015391931766, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1668015391931771, "dur":17874, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":6, "ts":1668015391949657, "dur":256, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1668015391949915, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1668015391949920, "dur":36281, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1668015391986217, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":6, "ts":1668015391986238, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1668015391986255, "dur":57153, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":6, "ts":1668015392043426, "dur":5528, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1668015391497775, "dur":335, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1668015391498110, "dur":3695, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1668015391501808, "dur":763, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":7, "ts":1668015391502573, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1668015391586684, "dur":63139, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":7, "ts":1668015391649887, "dur":162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1668015391650052, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1668015391650057, "dur":1284, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1668015391651353, "dur":27279, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1668015391678640, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1668015391678649, "dur":30323, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1668015391709061, "dur":186, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1668015391709250, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1668015391709256, "dur":57747, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1668015391767019, "dur":155, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1668015391767176, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1668015391767182, "dur":36912, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1668015391804110, "dur":166, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1668015391804278, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1668015391804283, "dur":13770, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1668015391818069, "dur":346, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1668015391818418, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1668015391818424, "dur":13576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1668015391832014, "dur":18989, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1668015391851007, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1668015391851041, "dur":4718, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1668015391855777, "dur":17412, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1668015391873202, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1668015391873209, "dur":9758, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1668015391882978, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":7, "ts":1668015391883069, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1668015391883072, "dur":5511, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":7, "ts":1668015391888600, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":7, "ts":1668015391888723, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1668015391888727, "dur":14379, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":7, "ts":1668015391903126, "dur":287, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":7, "ts":1668015391903415, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1668015391903422, "dur":28088, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":7, "ts":1668015391931534, "dur":167, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":7, "ts":1668015391931704, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1668015391931711, "dur":17711, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":7, "ts":1668015391949438, "dur":1387, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1668015391950827, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1668015391950830, "dur":45703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1668015391996546, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/level0" }}
+,{ "pid":12345, "tid":7, "ts":1668015391996556, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1668015391996559, "dur":44867, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/level0" }}
+,{ "pid":12345, "tid":7, "ts":1668015392041448, "dur":7505, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1668015391497796, "dur":316, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1668015391498112, "dur":3695, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1668015391501808, "dur":259, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1668015391502071, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1668015391520771, "dur":9957, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1668015391530864, "dur":34178, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity.exe" }}
+,{ "pid":12345, "tid":8, "ts":1668015391565047, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1668015391565053, "dur":83644, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity.exe" }}
+,{ "pid":12345, "tid":8, "ts":1668015391648712, "dur":38492, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1668015391687209, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1668015391687215, "dur":30321, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1668015391717559, "dur":1306, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1668015391718868, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1668015391718872, "dur":85205, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1668015391804095, "dur":179, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1668015391804277, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1668015391804282, "dur":13701, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1668015391817999, "dur":266, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1668015391818267, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1668015391818274, "dur":12033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1668015391830320, "dur":161, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1668015391830484, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1668015391830488, "dur":5447, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1668015391835955, "dur":174, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1668015391836134, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1668015391836140, "dur":6268, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1668015391842426, "dur":19970, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1668015391862402, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1668015391862444, "dur":3610, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1668015391866071, "dur":19715, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1668015391885788, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1668015391885792, "dur":7318, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1668015391893123, "dur":36686, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.Burst.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":8, "ts":1668015391929813, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1668015391929817, "dur":19503, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.Burst.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":8, "ts":1668015391949340, "dur":201, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1668015391949544, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1668015391949550, "dur":16331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1668015391965897, "dur":4209, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":8, "ts":1668015391970110, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1668015391970114, "dur":46895, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":8, "ts":1668015392017027, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/boot.config" }}
+,{ "pid":12345, "tid":8, "ts":1668015392017145, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1668015392017150, "dur":31765, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/boot.config" }}
+,{ "pid":12345, "tid":8, "ts":1668015392048929, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":8, "ts":1668015392048931, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1668015391497816, "dur":299, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1668015391498115, "dur":3691, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1668015391501808, "dur":1035, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":9, "ts":1668015391502845, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1668015391745852, "dur":53571, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":9, "ts":1668015391799487, "dur":37543, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1668015391837034, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1668015391837039, "dur":6124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1668015391843178, "dur":1556, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1668015391844738, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1668015391844745, "dur":12414, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1668015391857174, "dur":27264, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1668015391884440, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1668015391884443, "dur":6665, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1668015391891118, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":9, "ts":1668015391891218, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1668015391891221, "dur":27239, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":9, "ts":1668015391918475, "dur":3728, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":9, "ts":1668015391922207, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1668015391922212, "dur":27649, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":9, "ts":1668015391949876, "dur":414, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":9, "ts":1668015391950292, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1668015391950296, "dur":40135, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":9, "ts":1668015391990447, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":9, "ts":1668015391990465, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1668015391990470, "dur":23275, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":9, "ts":1668015392013760, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":9, "ts":1668015392013774, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1668015392013778, "dur":34123, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":9, "ts":1668015392047914, "dur":1105, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1668015391497832, "dur":286, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1668015391498118, "dur":3688, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1668015391501808, "dur":593, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1668015391502404, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1668015391549638, "dur":35761, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1668015391585515, "dur":97715, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1668015391683236, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1668015391683243, "dur":25675, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1668015391708939, "dur":33745, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1668015391742689, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1668015391742695, "dur":61363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1668015391804077, "dur":240, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1668015391804320, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1668015391804324, "dur":14362, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1668015391818699, "dur":278, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1668015391818979, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1668015391818983, "dur":12879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1668015391831879, "dur":314, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1668015391832196, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1668015391832201, "dur":7652, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1668015391839881, "dur":23825, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":10, "ts":1668015391863712, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1668015391863719, "dur":4735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":10, "ts":1668015391868467, "dur":337, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":10, "ts":1668015391868810, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1668015391868817, "dur":11785, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":10, "ts":1668015391880620, "dur":125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":10, "ts":1668015391880748, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1668015391880752, "dur":4185, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":10, "ts":1668015391884950, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":10, "ts":1668015391885082, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1668015391885086, "dur":6630, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":10, "ts":1668015391891730, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":10, "ts":1668015391891829, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1668015391891832, "dur":26906, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":10, "ts":1668015391918760, "dur":417, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":10, "ts":1668015391919180, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1668015391919186, "dur":18495, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":10, "ts":1668015391937695, "dur":180, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":10, "ts":1668015391937878, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1668015391937883, "dur":12828, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":10, "ts":1668015391950723, "dur":782, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":10, "ts":1668015391951508, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1668015391951511, "dur":40299, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":10, "ts":1668015391991821, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":10, "ts":1668015391991924, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1668015391991927, "dur":25058, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":10, "ts":1668015392017001, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":10, "ts":1668015392017015, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1668015392017020, "dur":31107, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":10, "ts":1668015392048142, "dur":857, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1668015391497845, "dur":275, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1668015391498121, "dur":3839, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1668015391501961, "dur":838, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1668015391502800, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1668015391691993, "dur":53861, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1668015391745944, "dur":12568, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1668015391758517, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1668015391758522, "dur":45559, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1668015391804098, "dur":14359, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1668015391818461, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1668015391818465, "dur":11677, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1668015391830159, "dur":147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1668015391830309, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1668015391830315, "dur":3152, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1668015391833480, "dur":17781, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1668015391851265, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1668015391851269, "dur":4820, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1668015391856103, "dur":202, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1668015391856308, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1668015391856312, "dur":6633, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1668015391862960, "dur":162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1668015391863124, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1668015391863129, "dur":4642, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1668015391867784, "dur":444, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":11, "ts":1668015391868231, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1668015391868236, "dur":12133, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":11, "ts":1668015391880393, "dur":131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":11, "ts":1668015391880527, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1668015391880533, "dur":4442, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":11, "ts":1668015391884993, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":11, "ts":1668015391885153, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1668015391885159, "dur":6365, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":11, "ts":1668015391891536, "dur":766, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":11, "ts":1668015391892304, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1668015391892307, "dur":28281, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":11, "ts":1668015391920602, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1668015391920712, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1668015391920715, "dur":19292, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1668015391940025, "dur":638, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":11, "ts":1668015391940666, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1668015391940697, "dur":31450, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":11, "ts":1668015391972161, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":11, "ts":1668015391972267, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1668015391972271, "dur":20998, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":11, "ts":1668015391993284, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/resources.assets" }}
+,{ "pid":12345, "tid":11, "ts":1668015391993300, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1668015391993303, "dur":50108, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/resources.assets" }}
+,{ "pid":12345, "tid":11, "ts":1668015392043429, "dur":5551, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1668015391497862, "dur":261, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1668015391498123, "dur":3864, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1668015391501987, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1668015391502119, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1668015391526980, "dur":15179, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1668015391542253, "dur":191, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1668015391542447, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1668015391543637, "dur":23581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1668015391567238, "dur":176, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1668015391567416, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1668015391567436, "dur":74637, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1668015391642172, "dur":33660, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1668015391675839, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1668015391675848, "dur":24764, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1668015391700624, "dur":14010, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1668015391714641, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1668015391714649, "dur":52361, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1668015391767029, "dur":340, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1668015391767372, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1668015391767377, "dur":51234, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1668015391818624, "dur":16496, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1668015391835126, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1668015391835133, "dur":6247, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1668015391841398, "dur":154, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1668015391841555, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1668015391841562, "dur":4251, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1668015391845830, "dur":18386, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1668015391864220, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1668015391864225, "dur":5393, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1668015391869630, "dur":235, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":12, "ts":1668015391869867, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1668015391869872, "dur":11493, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":12, "ts":1668015391881390, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":12, "ts":1668015391881495, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1668015391881501, "dur":3840, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":12, "ts":1668015391885354, "dur":119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":12, "ts":1668015391885475, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1668015391885479, "dur":6351, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":12, "ts":1668015391891843, "dur":342, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":12, "ts":1668015391892187, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1668015391892190, "dur":27995, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":12, "ts":1668015391920201, "dur":1122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":12, "ts":1668015391921347, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1668015391921351, "dur":27034, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":12, "ts":1668015391948404, "dur":2527, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":12, "ts":1668015391950933, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1668015391950960, "dur":31407, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":12, "ts":1668015391982380, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/GitRepos/CityBuilderMobile_Unity_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":12, "ts":1668015391982470, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1668015391990378, "dur":52396, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/GitRepos/CityBuilderMobile_Unity_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":12, "ts":1668015392042787, "dur":6190, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1668015392056094, "dur":2307, "ph":"X", "name": "ProfilerWriteOutput" }
+,{ "pid": 0, "tid": 1, "ts": 1668015392064322, "dur": 643, "ph": "X", "name": "backend_profiler1.traceevents", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1668015392064106, "dur": 875, "ph": "X", "name": "Write chrome-trace events", "args": {} },
