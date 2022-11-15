@@ -76,8 +76,8 @@
      <Compile Include="Library\PackageCache\com.unity.timeline@1.6.4\Editor\Manipulators\Trim\TrimItemModeRipple.cs" />
      <Compile Include="Library\PackageCache\com.unity.timeline@1.6.4\Editor\Manipulators\Utils\PlacementValidity.cs" />
      <Compile Include="Library\PackageCache\com.unity.timeline@1.6.4\Editor\Animation\AnimationClipCurveCache.cs" />
-     <Compile Include="Library\PackageCache\com.unity.timeline@1.6.4\Editor\treeview\ItemGui\TimelineMarkerGUI.cs" />
      <Compile Include="Library\PackageCache\com.unity.timeline@1.6.4\Editor\Animation\BindingTreeViewDataSource.cs" />
+     <Compile Include="Library\PackageCache\com.unity.timeline@1.6.4\Editor\treeview\ItemGui\TimelineMarkerGUI.cs" />
      <Compile Include="Library\PackageCache\com.unity.timeline@1.6.4\Editor\Attributes\MenuEntryAttribute.cs" />
      <Compile Include="Library\PackageCache\com.unity.timeline@1.6.4\Editor\Attributes\ActiveInModeAttribute.cs" />
      <Compile Include="Library\PackageCache\com.unity.timeline@1.6.4\Editor\inspectors\TimeFieldDrawer.cs" />
@@ -158,9 +158,9 @@
      <Compile Include="Library\PackageCache\com.unity.timeline@1.6.4\Editor\Utilities\AnimatedParameterCache.cs" />
      <Compile Include="Library\PackageCache\com.unity.timeline@1.6.4\Editor\Utilities\FileUtility.cs" />
      <Compile Include="Library\PackageCache\com.unity.timeline@1.6.4\Editor\State\WindowState.cs" />
+     <Compile Include="Library\PackageCache\com.unity.timeline@1.6.4\Editor\Utilities\Scopes\GUIColorOverride.cs" />
      <Compile Include="Library\PackageCache\com.unity.timeline@1.6.4\Editor\treeview\ItemGui\TimelineClipGUI.cs" />
      <Compile Include="Library\PackageCache\com.unity.timeline@1.6.4\Editor\inspectors\DirectorNamedColorInspector.cs" />
-     <Compile Include="Library\PackageCache\com.unity.timeline@1.6.4\Editor\Utilities\Scopes\GUIColorOverride.cs" />
      <Compile Include="Library\PackageCache\com.unity.timeline@1.6.4\Editor\inspectors\AnimationPlayableAssetInspector.cs" />
      <Compile Include="Library\PackageCache\com.unity.timeline@1.6.4\Editor\Actions\TrackAction.cs" />
      <Compile Include="Library\PackageCache\com.unity.timeline@1.6.4\Editor\Utilities\Range.cs" />
@@ -207,8 +207,8 @@
      <Compile Include="Library\PackageCache\com.unity.timeline@1.6.4\Editor\Animation\AnimationTrackActions.cs" />
      <Compile Include="Library\PackageCache\com.unity.timeline@1.6.4\Editor\Utilities\Graphics.cs" />
      <Compile Include="Library\PackageCache\com.unity.timeline@1.6.4\Editor\Recording\TimelineRecording_PlayableAsset.cs" />
-     <Compile Include="Library\PackageCache\com.unity.timeline@1.6.4\Editor\treeview\TrackGui\InlineCurveEditor.cs" />
      <Compile Include="Library\PackageCache\com.unity.timeline@1.6.4\Editor\Utilities\SpacePartitioner.cs" />
+     <Compile Include="Library\PackageCache\com.unity.timeline@1.6.4\Editor\treeview\TrackGui\InlineCurveEditor.cs" />
      <Compile Include="Library\PackageCache\com.unity.timeline@1.6.4\Editor\inspectors\TimelineProjectSettings.cs" />
      <Compile Include="Library\PackageCache\com.unity.timeline@1.6.4\Editor\Trackhead.cs" />
      <Compile Include="Library\PackageCache\com.unity.timeline@1.6.4\Editor\Animation\CurveTreeViewNode.cs" />
@@ -241,8 +241,8 @@
      <Compile Include="Library\PackageCache\com.unity.timeline@1.6.4\Editor\Manipulators\EditMode.cs" />
      <Compile Include="Library\PackageCache\com.unity.timeline@1.6.4\Editor\treeview\Snapping\ISnappable.cs" />
      <Compile Include="Library\PackageCache\com.unity.timeline@1.6.4\Editor\treeview\TimelineDataSource.cs" />
-     <Compile Include="Library\PackageCache\com.unity.timeline@1.6.4\Editor\Animation\AnimationOffsetMenu.cs" />
      <Compile Include="Library\PackageCache\com.unity.timeline@1.6.4\Editor\CustomEditors\MarkerEditor.cs" />
+     <Compile Include="Library\PackageCache\com.unity.timeline@1.6.4\Editor\Animation\AnimationOffsetMenu.cs" />
      <Compile Include="Library\PackageCache\com.unity.timeline@1.6.4\Editor\Utilities\ClipModifier.cs" />
      <Compile Include="Library\PackageCache\com.unity.timeline@1.6.4\Editor\Signals\SignalReceiverHeader.cs" />
      <Compile Include="Library\PackageCache\com.unity.timeline@1.6.4\Editor\Audio\AudioClipPropertiesDrawer.cs" />
@@ -573,11 +573,26 @@
     <Reference Include="Unity.VisualScripting.YamlDotNet">
         <HintPath>F:\GitRepos\CityBuilderMobile_Unity\CityBuilderMobile_unity\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Burst.Unsafe">
+        <HintPath>F:\GitRepos\CityBuilderMobile_Unity\CityBuilderMobile_unity\Library\PackageCache\com.unity.burst@1.6.5\Unity.Burst.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Burst.Cecil.Mdb">
+        <HintPath>F:\GitRepos\CityBuilderMobile_Unity\CityBuilderMobile_unity\Library\PackageCache\com.unity.burst@1.6.5\Unity.Burst.CodeGen\Unity.Burst.Cecil.Mdb.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.VisualScripting.IonicZip">
         <HintPath>F:\GitRepos\CityBuilderMobile_Unity\CityBuilderMobile_unity\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Burst.Cecil.Pdb">
+        <HintPath>F:\GitRepos\CityBuilderMobile_Unity\CityBuilderMobile_unity\Library\PackageCache\com.unity.burst@1.6.5\Unity.Burst.CodeGen\Unity.Burst.Cecil.Pdb.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Burst.Cecil">
+        <HintPath>F:\GitRepos\CityBuilderMobile_Unity\CityBuilderMobile_unity\Library\PackageCache\com.unity.burst@1.6.5\Unity.Burst.CodeGen\Unity.Burst.Cecil.dll</HintPath>
+    </Reference>
     <Reference Include="log4netPlastic">
         <HintPath>F:\GitRepos\CityBuilderMobile_Unity\CityBuilderMobile_unity\Library\PackageCache\com.unity.collab-proxy@1.15.16\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Burst.Cecil.Rocks">
+        <HintPath>F:\GitRepos\CityBuilderMobile_Unity\CityBuilderMobile_unity\Library\PackageCache\com.unity.burst@1.6.5\Unity.Burst.CodeGen\Unity.Burst.Cecil.Rocks.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
         <HintPath>F:\GitRepos\CityBuilderMobile_Unity\CityBuilderMobile_unity\Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>

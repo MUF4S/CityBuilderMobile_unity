@@ -301,11 +301,26 @@
     <Reference Include="Unity.VisualScripting.YamlDotNet">
         <HintPath>F:\GitRepos\CityBuilderMobile_Unity\CityBuilderMobile_unity\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Burst.Unsafe">
+        <HintPath>F:\GitRepos\CityBuilderMobile_Unity\CityBuilderMobile_unity\Library\PackageCache\com.unity.burst@1.6.5\Unity.Burst.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Burst.Cecil.Mdb">
+        <HintPath>F:\GitRepos\CityBuilderMobile_Unity\CityBuilderMobile_unity\Library\PackageCache\com.unity.burst@1.6.5\Unity.Burst.CodeGen\Unity.Burst.Cecil.Mdb.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.VisualScripting.IonicZip">
         <HintPath>F:\GitRepos\CityBuilderMobile_Unity\CityBuilderMobile_unity\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Burst.Cecil.Pdb">
+        <HintPath>F:\GitRepos\CityBuilderMobile_Unity\CityBuilderMobile_unity\Library\PackageCache\com.unity.burst@1.6.5\Unity.Burst.CodeGen\Unity.Burst.Cecil.Pdb.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Burst.Cecil">
+        <HintPath>F:\GitRepos\CityBuilderMobile_Unity\CityBuilderMobile_unity\Library\PackageCache\com.unity.burst@1.6.5\Unity.Burst.CodeGen\Unity.Burst.Cecil.dll</HintPath>
+    </Reference>
     <Reference Include="log4netPlastic">
         <HintPath>F:\GitRepos\CityBuilderMobile_Unity\CityBuilderMobile_unity\Library\PackageCache\com.unity.collab-proxy@1.15.16\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Burst.Cecil.Rocks">
+        <HintPath>F:\GitRepos\CityBuilderMobile_Unity\CityBuilderMobile_unity\Library\PackageCache\com.unity.burst@1.6.5\Unity.Burst.CodeGen\Unity.Burst.Cecil.Rocks.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
         <HintPath>F:\GitRepos\CityBuilderMobile_Unity\CityBuilderMobile_unity\Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
@@ -700,11 +715,41 @@
     <Reference Include="System.Xml.XPath.XDocument">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.3f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Xml.XPath.XDocument.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.RenderPipelines.Universal.Shaders">
+        <HintPath>F:\GitRepos\CityBuilderMobile_Unity\CityBuilderMobile_unity\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Universal.Runtime">
+        <HintPath>F:\GitRepos\CityBuilderMobile_Unity\CityBuilderMobile_unity\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="PPv2URPConverters">
+        <HintPath>F:\GitRepos\CityBuilderMobile_Unity\CityBuilderMobile_unity\Library\ScriptAssemblies\PPv2URPConverters.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Core.Runtime">
+        <HintPath>F:\GitRepos\CityBuilderMobile_Unity\CityBuilderMobile_unity\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.UI">
         <HintPath>F:\GitRepos\CityBuilderMobile_Unity\CityBuilderMobile_unity\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
+        <HintPath>F:\GitRepos\CityBuilderMobile_Unity\CityBuilderMobile_unity\Library\ScriptAssemblies\Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine.UI">
         <HintPath>F:\GitRepos\CityBuilderMobile_Unity\CityBuilderMobile_unity\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ShaderGraph.Editor">
+        <HintPath>F:\GitRepos\CityBuilderMobile_Unity\CityBuilderMobile_unity\Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Universal.Editor">
+        <HintPath>F:\GitRepos\CityBuilderMobile_Unity\CityBuilderMobile_unity\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
+        <HintPath>F:\GitRepos\CityBuilderMobile_Unity\CityBuilderMobile_unity\Library\ScriptAssemblies\Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
+        <HintPath>F:\GitRepos\CityBuilderMobile_Unity\CityBuilderMobile_unity\Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Core.Editor">
+        <HintPath>F:\GitRepos\CityBuilderMobile_Unity\CityBuilderMobile_unity\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
@@ -728,29 +773,13 @@
       <Project>{43898d07-57c4-5630-0cff-f575638a7c24}</Project>
       <Name>Unity.VSCode.Editor</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.Services.Core.Analytics.csproj">
-      <Project>{78d35721-f08f-4d5f-ae46-3dbc73fcacb7}</Project>
-      <Name>Unity.Services.Core.Analytics</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.VisualScripting.Shared.Editor.csproj">
-      <Project>{f27d1587-2ed2-6a7c-4413-fcd09003fc00}</Project>
-      <Name>Unity.VisualScripting.Shared.Editor</Name>
-    </ProjectReference>
     <ProjectReference Include="Unity.TextMeshPro.Editor.csproj">
       <Project>{a7fd0bad-d939-58e6-05d2-afaa04d258b7}</Project>
       <Name>Unity.TextMeshPro.Editor</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.Services.Core.Environments.csproj">
-      <Project>{7b01e8b8-d10f-8f0f-e7b0-0773a62b0b02}</Project>
-      <Name>Unity.Services.Core.Environments</Name>
-    </ProjectReference>
     <ProjectReference Include="Unity.VisualStudio.Editor.csproj">
       <Project>{3e1cd6c3-3ff9-0909-c8b1-24b7a18275ae}</Project>
       <Name>Unity.VisualStudio.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.Timeline.Editor.csproj">
-      <Project>{4dcbf58a-9e81-90e7-733d-9d5e0b732adf}</Project>
-      <Name>Unity.Timeline.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Timeline.csproj">
       <Project>{3939fcbb-13b2-d19f-eeca-5732b335002e}</Project>
@@ -768,6 +797,14 @@
       <Project>{60ae8516-5f64-f949-7fa3-769fbccd49cb}</Project>
       <Name>Unity.VisualScripting.State.Editor</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.Burst.Editor.csproj">
+      <Project>{c88b564e-da1a-ba4a-968c-1c878b5ed4c1}</Project>
+      <Name>Unity.Burst.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Searcher.Editor.csproj">
+      <Project>{e290fb80-0968-d12b-1f55-30b2879d1832}</Project>
+      <Name>Unity.Searcher.Editor</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.SettingsProvider.Editor.csproj">
       <Project>{51fbfa27-d1e1-2d36-ddb9-41070dfeff25}</Project>
       <Name>Unity.VisualScripting.SettingsProvider.Editor</Name>
@@ -784,17 +821,45 @@
       <Project>{0a8d12c9-b4a2-0c7e-1907-6f8e4d92cd02}</Project>
       <Name>Unity.Rider.Editor</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.VisualScripting.Core.csproj">
+      <Project>{7e0cf6dc-3735-ea13-f1f6-83bbb334ec20}</Project>
+      <Name>Unity.VisualScripting.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Mathematics.csproj">
+      <Project>{11fdfaec-14f5-fc56-bc76-229064299e75}</Project>
+      <Name>Unity.Mathematics</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.Services.Core.csproj">
       <Project>{8d1d2145-6747-f0c6-58b4-8e8d3e23b7c2}</Project>
       <Name>Unity.Services.Core</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.Services.Core.Analytics.csproj">
+      <Project>{78d35721-f08f-4d5f-ae46-3dbc73fcacb7}</Project>
+      <Name>Unity.Services.Core.Analytics</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Burst.csproj">
+      <Project>{f006408f-1594-d46e-10f7-c8d10df0272b}</Project>
+      <Name>Unity.Burst</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VisualScripting.Shared.Editor.csproj">
+      <Project>{f27d1587-2ed2-6a7c-4413-fcd09003fc00}</Project>
+      <Name>Unity.VisualScripting.Shared.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Services.Core.Environments.csproj">
+      <Project>{7b01e8b8-d10f-8f0f-e7b0-0773a62b0b02}</Project>
+      <Name>Unity.Services.Core.Environments</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Timeline.Editor.csproj">
+      <Project>{4dcbf58a-9e81-90e7-733d-9d5e0b732adf}</Project>
+      <Name>Unity.Timeline.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Mathematics.Editor.csproj">
+      <Project>{74a6f494-0da3-9703-38df-2201b0d5a5fd}</Project>
+      <Name>Unity.Mathematics.Editor</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.State.csproj">
       <Project>{4ffd8319-c960-a2e4-9190-defb27cc163a}</Project>
       <Name>Unity.VisualScripting.State</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.VisualScripting.Core.csproj">
-      <Project>{7e0cf6dc-3735-ea13-f1f6-83bbb334ec20}</Project>
-      <Name>Unity.VisualScripting.Core</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

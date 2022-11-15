@@ -51,8 +51,8 @@
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Dependencies\NCalc\Expression.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Math\Scalar\ScalarPerSecond.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Events\GUI\OnButtonClick.cs" />
-     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Math\Vector2\Vector2Multiply.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Math\Vector3\Vector3Project.cs" />
+     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Math\Vector2\Vector2Multiply.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Dependencies\NCalc\EvaluationOption.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Collections\Dictionaries\DictionaryContainsKey.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Math\Maximum.cs" />
@@ -115,8 +115,8 @@
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Variables\Obsolete\SetSavedVariable.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Math\Scalar\ScalarSum.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Collections\LastItem.cs" />
-     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Events\Animation\BoltAnimationEvent.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Math\Scalar\ScalarRound.cs" />
+     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Events\Animation\BoltAnimationEvent.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Control\ToggleValue.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Logic\NumericComparison.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Control\SwitchOnEnum.cs" />
@@ -223,8 +223,8 @@
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Connections\UnitRelation.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\EditorBinding\UnitFooterPortsAttribute.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Logic\Negate.cs" />
-     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Graph\GetScriptGraph.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Events\GUI\OnPointerClick.cs" />
+     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Graph\GetScriptGraph.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Connections\IUnitRelation.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Control\TryCatch.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Codebase\SetMember.cs" />
@@ -232,8 +232,8 @@
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Math\Vector3\Vector3Sum.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Events\Animation\BoltNamedAnimationEvent.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Math\Multiply.cs" />
-     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Math\CrossProduct.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Unit.cs" />
+     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Math\CrossProduct.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Events\Physics2D\OnCollisionEnter2D.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Events\GUI\OnScrollRectValueChanged.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Logic\GreaterOrEqual.cs" />
@@ -298,8 +298,8 @@
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\UnitPortDefinitionCollection.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Events\Input\InputSystem\OnInputSystemEvent.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Variables\Obsolete\SetVariableUnit.cs" />
-     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Events\CustomEvent.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Control\ForEach.cs" />
+     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Events\CustomEvent.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Time\WaitForNextFrameUnit.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Math\Vector4\Vector4Distance.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Logic\Less.cs" />
@@ -324,10 +324,10 @@
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Collections\Lists\AddListItem.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Ports\ValueOutputDefinition.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Control\SelectOnEnum.cs" />
-     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Flow.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Ports\InvalidOutput.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Properties\AssemblyInfo.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Events\Physics\OnTriggerExit.cs" />
+     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Flow.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Math\Vector4\Vector4Multiply.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\UnitPreservation.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Events\Input\OnButtonInput.cs" />
@@ -338,8 +338,8 @@
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Math\Vector2\Vector2Subtract.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Connections\UnitConnection.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Events\Application\OnApplicationResume.cs" />
-     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Variables\Obsolete\IObjectVariableUnit.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Variables\Obsolete\GetSceneVariable.cs" />
+     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Variables\Obsolete\IObjectVariableUnit.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Events\GUI\OnInputFieldEndEdit.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Variables\Obsolete\IApplicationVariableUnit.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\EditorBinding\UnitTitleAttribute.cs" />
@@ -372,9 +372,9 @@
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\EditorBinding\UnitHeaderInspectableAttribute.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Math\Generic\GenericModulo.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Dependencies\NCalc\BinaryExpression.cs" />
-     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Codebase\MemberUnit.cs" />
-     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Events\GlobalEventUnit.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Events\Editor\OnDrawGizmosSelected.cs" />
+     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Events\GlobalEventUnit.cs" />
+     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Codebase\MemberUnit.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Time\WaitUnit.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Nulls\NullCheck.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Events\Input\OnKeyboardInput.cs" />
@@ -423,8 +423,8 @@
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Events\GUI\OnEndDrag.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Collections\Lists\InsertListItem.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Events\Lifecycle\OnEnable.cs" />
-     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Math\Vector4\Vector4Normalize.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Events\TriggerCustomEvent.cs" />
+     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Math\Vector4\Vector4Normalize.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Math\Vector2\Vector2Minimum.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Logic\And.cs" />
      <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Framework\Events\BoltUnityEvent.cs" />
@@ -699,11 +699,26 @@
     <Reference Include="Unity.VisualScripting.YamlDotNet">
         <HintPath>F:\GitRepos\CityBuilderMobile_Unity\CityBuilderMobile_unity\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Burst.Unsafe">
+        <HintPath>F:\GitRepos\CityBuilderMobile_Unity\CityBuilderMobile_unity\Library\PackageCache\com.unity.burst@1.6.5\Unity.Burst.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Burst.Cecil.Mdb">
+        <HintPath>F:\GitRepos\CityBuilderMobile_Unity\CityBuilderMobile_unity\Library\PackageCache\com.unity.burst@1.6.5\Unity.Burst.CodeGen\Unity.Burst.Cecil.Mdb.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.VisualScripting.IonicZip">
         <HintPath>F:\GitRepos\CityBuilderMobile_Unity\CityBuilderMobile_unity\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Burst.Cecil.Pdb">
+        <HintPath>F:\GitRepos\CityBuilderMobile_Unity\CityBuilderMobile_unity\Library\PackageCache\com.unity.burst@1.6.5\Unity.Burst.CodeGen\Unity.Burst.Cecil.Pdb.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Burst.Cecil">
+        <HintPath>F:\GitRepos\CityBuilderMobile_Unity\CityBuilderMobile_unity\Library\PackageCache\com.unity.burst@1.6.5\Unity.Burst.CodeGen\Unity.Burst.Cecil.dll</HintPath>
+    </Reference>
     <Reference Include="log4netPlastic">
         <HintPath>F:\GitRepos\CityBuilderMobile_Unity\CityBuilderMobile_unity\Library\PackageCache\com.unity.collab-proxy@1.15.16\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Burst.Cecil.Rocks">
+        <HintPath>F:\GitRepos\CityBuilderMobile_Unity\CityBuilderMobile_unity\Library\PackageCache\com.unity.burst@1.6.5\Unity.Burst.CodeGen\Unity.Burst.Cecil.Rocks.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
         <HintPath>F:\GitRepos\CityBuilderMobile_Unity\CityBuilderMobile_unity\Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
