@@ -1,0 +1,87 @@
+{
+    "name": "PlayerInputSystem",
+    "maps": [
+        {
+            "name": "CameraMove",
+            "id": "106b833b-9b53-48ca-aad0-67db03cd07bf",
+            "actions": [
+                {
+                    "name": "CameraUp/Down",
+                    "type": "Value",
+                    "id": "77d9395f-1e11-4bd1-9e04-1a7eb3ce97e5",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "CameraLeft/Right",
+                    "type": "Value",
+                    "id": "d0847875-5301-4c43-b826-adc58e4c0e14",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "a67cc2e6-2134-40e5-bd6f-1945a702b46a",
+                    "path": "<Mouse>/position/y",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "CameraLeft/Right",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6c1d2a0a-dd25-4b88-8eca-0fa70108d0d3",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "CameraLeft/Right",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "One Modifier",
+                    "id": "7c5ca77d-e277-4b42-8ff2-4bab7f5fc890",
+                    "path": "OneModifier",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "CameraUp/Down",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "Modifier",
+                    "id": "9a4a99cf-6f84-46f4-9fc3-414fb682af6a",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "CameraUp/Down",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "Binding",
+                    "id": "6fd5f6cb-6c5b-4638-8507-da917eb4c20f",
+                    "path": "<Mouse>/position/x",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "CameraUp/Down",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

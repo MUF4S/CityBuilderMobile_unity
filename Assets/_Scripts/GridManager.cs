@@ -10,7 +10,7 @@ public class GridManager : MonoBehaviour
     [Range(10000,99999)]
     [SerializeField] private int _seed;
     [SerializeField] public  int _width, _height;
-    [SerializeField] private GameObject _grassTile, _lakeTile;
+    [SerializeField] private GameObject[] _grassTile, _lakeTile;
     [SerializeField] private GameObject[] _mountainsTiles;
     [SerializeField] private int _maxView;
     private GameObject Terrain;
@@ -33,7 +33,7 @@ public class GridManager : MonoBehaviour
         {
             for (int z =(-height/2); z < height/2; z++)
             {
-                var randomTile = _grassTile;
+                var randomTile = _grassTile[Random.Range(0,_grassTile.Length)];
                 var spawnedTile = Instantiate(randomTile, new Vector3(x, 0, z), Quaternion.identity, Terrain.transform);
                 
                 spawnedTile.name = $"Tile {x} {z}";
@@ -60,11 +60,11 @@ public class GridManager : MonoBehaviour
                 print($"KURWA: {Tiles.ContainsKey(new Vector2(xPos, zPos))}");
                 if(!Tiles.ContainsKey(new Vector2(xPos, zPos)))
                 {
-                    var spawnedTile = Instantiate(randomTile, new Vector3(xPos, 0, zPos), Quaternion.identity, Terrain.transform);
-                    spawnedTile.SetActive(false);
-                    spawnedTile.name = $"Tile {xPos} {zPos}";
+                    //var spawnedTile = Instantiate(randomTile, new Vector3(xPos, 0, zPos), Quaternion.identity, Terrain.transform);
+                    //spawnedTile.SetActive(false);
+                    //spawnedTile.name = $"Tile {xPos} {zPos}";
 
-                    Tiles[new Vector2 (xPos, z + zPos)] = spawnedTile;
+                   // Tiles[new Vector2 (xPos, z + zPos)] = spawnedTile;
                     print($"Wygenerowano {xPos} + {zPos}");
                 }
 

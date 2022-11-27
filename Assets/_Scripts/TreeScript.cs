@@ -21,9 +21,9 @@ public class TreeScript : MonoBehaviour
         RaycastHit hit;
         var direction = new Vector3(transform.position.x,transform.position.y*-10,transform.position.z);
         if(Physics.Raycast(transform.position - new Vector3(0,0.2f,0), hitPos, out hit)){
-                transform.position = hit.point + Vector3.up *0.07f;
+                transform.position = hit.point + Vector3.up *0.2f;
                 treeCOunt++;  
-                print(treeCOunt);
+               
                 if(hit.transform.gameObject.layer == 7){
                     Destroy(gameObject);
                 }

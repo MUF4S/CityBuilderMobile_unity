@@ -30,6 +30,7 @@ public class Generator : MonoBehaviour
         GenerateTrees();
         GenerateMountains();
         GenerateRocks();
+        SpawnAnimals.Instance.FirstSpawn();
         
         
     }
@@ -114,7 +115,7 @@ public class Generator : MonoBehaviour
                         GameObject selected = _mountainObjects[Random.Range(0, _mountainObjects.Length)];
                         hit.point = new Vector3(hit.point.x,0.2f,hit.point.z);
                         Vector3 spawnPoint = hit.point + Random.insideUnitSphere*2f; 
-                        spawnPoint.y = 0.29f;
+                        spawnPoint.y = 0.6f;
                         GameObject tree = Instantiate(selected, spawnPoint, selected.transform.rotation,mountainRange.transform);
                        
                     }
